@@ -776,14 +776,14 @@ pre code {
 
 /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
 .col-1 {
-  flex: 0 0 8.33333333%;
-  max-width: 8.33333333%;
+  flex: 0 0 8.33333%;
+  max-width: 8.33333%;
 }
 
 /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
 .col-2 {
-  flex: 0 0 16.66666667%;
-  max-width: 16.66666667%;
+  flex: 0 0 16.66667%;
+  max-width: 16.66667%;
 }
 
 /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
@@ -794,14 +794,14 @@ pre code {
 
 /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
 .col-4 {
-  flex: 0 0 33.33333333%;
-  max-width: 33.33333333%;
+  flex: 0 0 33.33333%;
+  max-width: 33.33333%;
 }
 
 /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
 .col-5 {
-  flex: 0 0 41.66666667%;
-  max-width: 41.66666667%;
+  flex: 0 0 41.66667%;
+  max-width: 41.66667%;
 }
 
 /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
@@ -812,14 +812,14 @@ pre code {
 
 /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
 .col-7 {
-  flex: 0 0 58.33333333%;
-  max-width: 58.33333333%;
+  flex: 0 0 58.33333%;
+  max-width: 58.33333%;
 }
 
 /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
 .col-8 {
-  flex: 0 0 66.66666667%;
-  max-width: 66.66666667%;
+  flex: 0 0 66.66667%;
+  max-width: 66.66667%;
 }
 
 /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
@@ -830,14 +830,14 @@ pre code {
 
 /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
 .col-10 {
-  flex: 0 0 83.33333333%;
-  max-width: 83.33333333%;
+  flex: 0 0 83.33333%;
+  max-width: 83.33333%;
 }
 
 /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
 .col-11 {
-  flex: 0 0 91.66666667%;
-  max-width: 91.66666667%;
+  flex: 0 0 91.66667%;
+  max-width: 91.66667%;
 }
 
 /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
@@ -923,12 +923,12 @@ pre code {
 
 /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
 .offset-1 {
-  margin-left: 8.33333333%;
+  margin-left: 8.33333%;
 }
 
 /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
 .offset-2 {
-  margin-left: 16.66666667%;
+  margin-left: 16.66667%;
 }
 
 /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
@@ -938,12 +938,12 @@ pre code {
 
 /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
 .offset-4 {
-  margin-left: 33.33333333%;
+  margin-left: 33.33333%;
 }
 
 /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
 .offset-5 {
-  margin-left: 41.66666667%;
+  margin-left: 41.66667%;
 }
 
 /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
@@ -953,12 +953,12 @@ pre code {
 
 /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
 .offset-7 {
-  margin-left: 58.33333333%;
+  margin-left: 58.33333%;
 }
 
 /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
 .offset-8 {
-  margin-left: 66.66666667%;
+  margin-left: 66.66667%;
 }
 
 /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
@@ -968,12 +968,12 @@ pre code {
 
 /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
 .offset-10 {
-  margin-left: 83.33333333%;
+  margin-left: 83.33333%;
 }
 
 /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
 .offset-11 {
-  margin-left: 91.66666667%;
+  margin-left: 91.66667%;
 }
 
 @media (min-width: 576px) {
@@ -993,14 +993,14 @@ pre code {
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
   .col-sm-1 {
-    flex: 0 0 8.33333333%;
-    max-width: 8.33333333%;
+    flex: 0 0 8.33333%;
+    max-width: 8.33333%;
   }
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
   .col-sm-2 {
-    flex: 0 0 16.66666667%;
-    max-width: 16.66666667%;
+    flex: 0 0 16.66667%;
+    max-width: 16.66667%;
   }
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
@@ -1011,14 +1011,14 @@ pre code {
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
   .col-sm-4 {
-    flex: 0 0 33.33333333%;
-    max-width: 33.33333333%;
+    flex: 0 0 33.33333%;
+    max-width: 33.33333%;
   }
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
   .col-sm-5 {
-    flex: 0 0 41.66666667%;
-    max-width: 41.66666667%;
+    flex: 0 0 41.66667%;
+    max-width: 41.66667%;
   }
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
@@ -1029,14 +1029,14 @@ pre code {
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
   .col-sm-7 {
-    flex: 0 0 58.33333333%;
-    max-width: 58.33333333%;
+    flex: 0 0 58.33333%;
+    max-width: 58.33333%;
   }
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
   .col-sm-8 {
-    flex: 0 0 66.66666667%;
-    max-width: 66.66666667%;
+    flex: 0 0 66.66667%;
+    max-width: 66.66667%;
   }
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
@@ -1047,14 +1047,14 @@ pre code {
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
   .col-sm-10 {
-    flex: 0 0 83.33333333%;
-    max-width: 83.33333333%;
+    flex: 0 0 83.33333%;
+    max-width: 83.33333%;
   }
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
   .col-sm-11 {
-    flex: 0 0 91.66666667%;
-    max-width: 91.66666667%;
+    flex: 0 0 91.66667%;
+    max-width: 91.66667%;
   }
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
@@ -1145,12 +1145,12 @@ pre code {
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
   .offset-sm-1 {
-    margin-left: 8.33333333%;
+    margin-left: 8.33333%;
   }
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
   .offset-sm-2 {
-    margin-left: 16.66666667%;
+    margin-left: 16.66667%;
   }
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
@@ -1160,12 +1160,12 @@ pre code {
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
   .offset-sm-4 {
-    margin-left: 33.33333333%;
+    margin-left: 33.33333%;
   }
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
   .offset-sm-5 {
-    margin-left: 41.66666667%;
+    margin-left: 41.66667%;
   }
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
@@ -1175,12 +1175,12 @@ pre code {
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
   .offset-sm-7 {
-    margin-left: 58.33333333%;
+    margin-left: 58.33333%;
   }
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
   .offset-sm-8 {
-    margin-left: 66.66666667%;
+    margin-left: 66.66667%;
   }
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
@@ -1190,12 +1190,12 @@ pre code {
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
   .offset-sm-10 {
-    margin-left: 83.33333333%;
+    margin-left: 83.33333%;
   }
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
   .offset-sm-11 {
-    margin-left: 91.66666667%;
+    margin-left: 91.66667%;
   }
 }
 @media (min-width: 768px) {
@@ -1215,14 +1215,14 @@ pre code {
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
   .col-md-1 {
-    flex: 0 0 8.33333333%;
-    max-width: 8.33333333%;
+    flex: 0 0 8.33333%;
+    max-width: 8.33333%;
   }
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
   .col-md-2 {
-    flex: 0 0 16.66666667%;
-    max-width: 16.66666667%;
+    flex: 0 0 16.66667%;
+    max-width: 16.66667%;
   }
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
@@ -1233,14 +1233,14 @@ pre code {
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
   .col-md-4 {
-    flex: 0 0 33.33333333%;
-    max-width: 33.33333333%;
+    flex: 0 0 33.33333%;
+    max-width: 33.33333%;
   }
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
   .col-md-5 {
-    flex: 0 0 41.66666667%;
-    max-width: 41.66666667%;
+    flex: 0 0 41.66667%;
+    max-width: 41.66667%;
   }
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
@@ -1251,14 +1251,14 @@ pre code {
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
   .col-md-7 {
-    flex: 0 0 58.33333333%;
-    max-width: 58.33333333%;
+    flex: 0 0 58.33333%;
+    max-width: 58.33333%;
   }
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
   .col-md-8 {
-    flex: 0 0 66.66666667%;
-    max-width: 66.66666667%;
+    flex: 0 0 66.66667%;
+    max-width: 66.66667%;
   }
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
@@ -1269,14 +1269,14 @@ pre code {
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
   .col-md-10 {
-    flex: 0 0 83.33333333%;
-    max-width: 83.33333333%;
+    flex: 0 0 83.33333%;
+    max-width: 83.33333%;
   }
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
   .col-md-11 {
-    flex: 0 0 91.66666667%;
-    max-width: 91.66666667%;
+    flex: 0 0 91.66667%;
+    max-width: 91.66667%;
   }
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
@@ -1367,12 +1367,12 @@ pre code {
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
   .offset-md-1 {
-    margin-left: 8.33333333%;
+    margin-left: 8.33333%;
   }
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
   .offset-md-2 {
-    margin-left: 16.66666667%;
+    margin-left: 16.66667%;
   }
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
@@ -1382,12 +1382,12 @@ pre code {
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
   .offset-md-4 {
-    margin-left: 33.33333333%;
+    margin-left: 33.33333%;
   }
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
   .offset-md-5 {
-    margin-left: 41.66666667%;
+    margin-left: 41.66667%;
   }
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
@@ -1397,12 +1397,12 @@ pre code {
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
   .offset-md-7 {
-    margin-left: 58.33333333%;
+    margin-left: 58.33333%;
   }
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
   .offset-md-8 {
-    margin-left: 66.66666667%;
+    margin-left: 66.66667%;
   }
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
@@ -1412,12 +1412,12 @@ pre code {
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
   .offset-md-10 {
-    margin-left: 83.33333333%;
+    margin-left: 83.33333%;
   }
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
   .offset-md-11 {
-    margin-left: 91.66666667%;
+    margin-left: 91.66667%;
   }
 }
 @media (min-width: 992px) {
@@ -1437,14 +1437,14 @@ pre code {
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
   .col-lg-1 {
-    flex: 0 0 8.33333333%;
-    max-width: 8.33333333%;
+    flex: 0 0 8.33333%;
+    max-width: 8.33333%;
   }
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
   .col-lg-2 {
-    flex: 0 0 16.66666667%;
-    max-width: 16.66666667%;
+    flex: 0 0 16.66667%;
+    max-width: 16.66667%;
   }
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
@@ -1455,14 +1455,14 @@ pre code {
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
   .col-lg-4 {
-    flex: 0 0 33.33333333%;
-    max-width: 33.33333333%;
+    flex: 0 0 33.33333%;
+    max-width: 33.33333%;
   }
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
   .col-lg-5 {
-    flex: 0 0 41.66666667%;
-    max-width: 41.66666667%;
+    flex: 0 0 41.66667%;
+    max-width: 41.66667%;
   }
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
@@ -1473,14 +1473,14 @@ pre code {
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
   .col-lg-7 {
-    flex: 0 0 58.33333333%;
-    max-width: 58.33333333%;
+    flex: 0 0 58.33333%;
+    max-width: 58.33333%;
   }
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
   .col-lg-8 {
-    flex: 0 0 66.66666667%;
-    max-width: 66.66666667%;
+    flex: 0 0 66.66667%;
+    max-width: 66.66667%;
   }
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
@@ -1491,14 +1491,14 @@ pre code {
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
   .col-lg-10 {
-    flex: 0 0 83.33333333%;
-    max-width: 83.33333333%;
+    flex: 0 0 83.33333%;
+    max-width: 83.33333%;
   }
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
   .col-lg-11 {
-    flex: 0 0 91.66666667%;
-    max-width: 91.66666667%;
+    flex: 0 0 91.66667%;
+    max-width: 91.66667%;
   }
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
@@ -1589,12 +1589,12 @@ pre code {
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
   .offset-lg-1 {
-    margin-left: 8.33333333%;
+    margin-left: 8.33333%;
   }
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
   .offset-lg-2 {
-    margin-left: 16.66666667%;
+    margin-left: 16.66667%;
   }
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
@@ -1604,12 +1604,12 @@ pre code {
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
   .offset-lg-4 {
-    margin-left: 33.33333333%;
+    margin-left: 33.33333%;
   }
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
   .offset-lg-5 {
-    margin-left: 41.66666667%;
+    margin-left: 41.66667%;
   }
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
@@ -1619,12 +1619,12 @@ pre code {
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
   .offset-lg-7 {
-    margin-left: 58.33333333%;
+    margin-left: 58.33333%;
   }
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
   .offset-lg-8 {
-    margin-left: 66.66666667%;
+    margin-left: 66.66667%;
   }
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
@@ -1634,12 +1634,12 @@ pre code {
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
   .offset-lg-10 {
-    margin-left: 83.33333333%;
+    margin-left: 83.33333%;
   }
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
   .offset-lg-11 {
-    margin-left: 91.66666667%;
+    margin-left: 91.66667%;
   }
 }
 @media (min-width: 1200px) {
@@ -1659,14 +1659,14 @@ pre code {
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
   .col-xl-1 {
-    flex: 0 0 8.33333333%;
-    max-width: 8.33333333%;
+    flex: 0 0 8.33333%;
+    max-width: 8.33333%;
   }
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
   .col-xl-2 {
-    flex: 0 0 16.66666667%;
-    max-width: 16.66666667%;
+    flex: 0 0 16.66667%;
+    max-width: 16.66667%;
   }
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
@@ -1677,14 +1677,14 @@ pre code {
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
   .col-xl-4 {
-    flex: 0 0 33.33333333%;
-    max-width: 33.33333333%;
+    flex: 0 0 33.33333%;
+    max-width: 33.33333%;
   }
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
   .col-xl-5 {
-    flex: 0 0 41.66666667%;
-    max-width: 41.66666667%;
+    flex: 0 0 41.66667%;
+    max-width: 41.66667%;
   }
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
@@ -1695,14 +1695,14 @@ pre code {
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
   .col-xl-7 {
-    flex: 0 0 58.33333333%;
-    max-width: 58.33333333%;
+    flex: 0 0 58.33333%;
+    max-width: 58.33333%;
   }
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
   .col-xl-8 {
-    flex: 0 0 66.66666667%;
-    max-width: 66.66666667%;
+    flex: 0 0 66.66667%;
+    max-width: 66.66667%;
   }
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
@@ -1713,14 +1713,14 @@ pre code {
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
   .col-xl-10 {
-    flex: 0 0 83.33333333%;
-    max-width: 83.33333333%;
+    flex: 0 0 83.33333%;
+    max-width: 83.33333%;
   }
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
   .col-xl-11 {
-    flex: 0 0 91.66666667%;
-    max-width: 91.66666667%;
+    flex: 0 0 91.66667%;
+    max-width: 91.66667%;
   }
 
   /* line 44, ../sass/bootstrap/mixins/_grid-framework.scss */
@@ -1811,12 +1811,12 @@ pre code {
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
   .offset-xl-1 {
-    margin-left: 8.33333333%;
+    margin-left: 8.33333%;
   }
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
   .offset-xl-2 {
-    margin-left: 16.66666667%;
+    margin-left: 16.66667%;
   }
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
@@ -1826,12 +1826,12 @@ pre code {
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
   .offset-xl-4 {
-    margin-left: 33.33333333%;
+    margin-left: 33.33333%;
   }
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
   .offset-xl-5 {
-    margin-left: 41.66666667%;
+    margin-left: 41.66667%;
   }
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
@@ -1841,12 +1841,12 @@ pre code {
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
   .offset-xl-7 {
-    margin-left: 58.33333333%;
+    margin-left: 58.33333%;
   }
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
   .offset-xl-8 {
-    margin-left: 66.66666667%;
+    margin-left: 66.66667%;
   }
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
@@ -1856,12 +1856,12 @@ pre code {
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
   .offset-xl-10 {
-    margin-left: 83.33333333%;
+    margin-left: 83.33333%;
   }
 
   /* line 60, ../sass/bootstrap/mixins/_grid-framework.scss */
   .offset-xl-11 {
-    margin-left: 91.66666667%;
+    margin-left: 91.66667%;
   }
 }
 /* line 5, ../sass/bootstrap/_tables.scss */
@@ -6992,7 +6992,7 @@ button.bg-dark:focus {
 
 /* line 31, ../sass/bootstrap/utilities/_embed.scss */
 .embed-responsive-21by9::before {
-  padding-top: 42.85714286%;
+  padding-top: 42.85714%;
 }
 
 /* line 37, ../sass/bootstrap/utilities/_embed.scss */
@@ -10361,4 +10361,11 @@ html {
 *::before,
 *::after {
   box-sizing: inherit;
+}
+
+/* line 10, ../sass/main.scss */
+.header-container,
+.footer-container {
+  background: #FDFBFD;
+  padding: 40px 0;
 }
