@@ -10369,3 +10369,33 @@ html {
   background: #FDFBFD;
   padding: 40px 0;
 }
+
+/* line 16, ../sass/main.scss */
+.company-name {
+  float: left;
+  font-weight: bold;
+}
+/* line 20, ../sass/main.scss */
+.company-name span {
+  font-weight: normal;
+  font-style: italic;
+  color: #666;
+}
+
+/* line 27, ../sass/main.scss */
+.work-dates,
+.work-title {
+  font-weight: normal;
+  font-style: italic;
+  color: #666;
+}
+
+/* line 33, ../sass/main.scss */
+.work-dates {
+  float: right;
+}
+
+/* line 36, ../sass/main.scss */
+.work-title {
+  float: none;
+}
